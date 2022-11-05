@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **cloud computing**
 
-- 👨‍💻 All of my projects are available on **github**
+- 👨‍💻 All of my projects are available on **Github**
 
 - 💬 Ask me about **cloud computing aand fullstack technology**
 
