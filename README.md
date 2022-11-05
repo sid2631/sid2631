@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available on github
 
-- 💬 Ask me about **cloud computing aand fullstack technology **
+- 💬 Ask me about **cloud computing aand fullstack technology**
 
-- 📫 How to reach me **sid7pute@gmail.com**
+- 📫 How to reach me sid7pute@gmail.com
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iIa-UugYtQJ8sFDDwCvp6A3Ietu9myRk/view?usp=share_link" target="blank"> siddharth resume <a>
 
