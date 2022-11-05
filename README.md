@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **cloud computing aand fullstack technology **
 
-- 📫 How to reach me **sid7pute@gmail.com**
+- 📫 How to reach me <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"> sid7pute@gmail.com <a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iIa-UugYtQJ8sFDDwCvp6A3Ietu9myRk/view?usp=share_link" target="blank"> resume <a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iIa-UugYtQJ8sFDDwCvp6A3Ietu9myRk/view?usp=share_link" target="blank"> siddharth resume <a>
 
 - ⚡ Fun fact **i love cricket 🏏**
 
