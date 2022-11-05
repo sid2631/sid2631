@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm siddharth</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3>A passionate software developer</h3>
 
 - 🔭 I’m currently working on **cloud technology**
 
@@ -16,6 +16,7 @@
 - 📫 How to reach me **sid7pute@gmail.com**
 
 - 📄 Know about my experiences 
+- 
   https://drive.google.com/file/d/1iIa-UugYtQJ8sFDDwCvp6A3Ietu9myRk/view?usp=share_link
 
 - ⚡ Fun fact **i love cricket 🏏**
