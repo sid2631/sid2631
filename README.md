@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on **python project**
 
-- 🤝 I’m looking for help with **python**
-
 - 👨‍💻 All of my projects are available on github
 
-- 💬 Ask me about **cloud computing**
+- 💬 Ask me about **cloud computing aand fullstck technology **
 
 - 📫 How to reach me **sid7pute@gmail.com**
 
