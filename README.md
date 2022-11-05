@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **cloud technology**
 
 - 🌱 I’m currently learning **cloud computing and fullstack technology**
-- 
+
 - 📫 How to reach me **sid7pute@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iIa-UugYtQJ8sFDDwCvp6A3Ietu9myRk/view?usp=share_link" target="blank"> Siddharth Resume <a>
