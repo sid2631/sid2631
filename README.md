@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm siddharth</h1>
+<h1>Hi 👋, I'm Siddharth</h1>
 <h3>A passionate software developer</h3>
 
 - 🔭 I’m currently working on **cloud technology**
