@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **sid7pute@gmail.com**
 
-- 📄 Know about my experiences 
-- 
-  https://drive.google.com/file/d/1iIa-UugYtQJ8sFDDwCvp6A3Ietu9myRk/view?usp=share_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1iIa-UugYtQJ8sFDDwCvp6A3Ietu9myRk/view?usp=share_link
 
 - ⚡ Fun fact **i love cricket 🏏**
 
