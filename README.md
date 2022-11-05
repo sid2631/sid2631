@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **cloud computing**
 
-- 👯 I’m looking to collaborate on **python project**
-
 - 👨‍💻 All of my projects are available on github
 
-- 💬 Ask me about **cloud computing aand fullstck technology **
+- 💬 Ask me about **cloud computing aand fullstack technology **
 
 - 📫 How to reach me **sid7pute@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1iIa-UugYtQJ8sFDDwCvp6A3Ietu9myRk/view?usp=share_link
+- 📄 Know about my experiences shorturl.at/pCDYZ
 
 - ⚡ Fun fact **i love cricket 🏏**
 
