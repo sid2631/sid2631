@@ -9,13 +9,14 @@
 
 - 🤝 I’m looking for help with **python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sid2631](https://github.com/sid2631)
+- 👨‍💻 All of my projects are available on github
 
 - 💬 Ask me about **cloud computing**
 
 - 📫 How to reach me **sid7pute@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/pCDYZ](shorturl.at/pCDYZ)
+- 📄 Know about my experiences 
+  https://drive.google.com/file/d/1iIa-UugYtQJ8sFDDwCvp6A3Ietu9myRk/view?usp=share_link
 
 - ⚡ Fun fact **i love cricket 🏏**
 
