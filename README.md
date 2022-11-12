@@ -1,4 +1,4 @@
-<img align="center"  src="[https://github.com/sid2631/sid2631/blob/9e3bc1c785091cd8762c2249e0d8db21204a8042/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.jpg](https://github.com/sid2631/sid2631/blob/9c23f2d238f7e5e50487bee2846148c5905a8821/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.gif)">
+<img align="center"  src="https://github.com/sid2631/sid2631/blob/9c23f2d238f7e5e50487bee2846148c5905a8821/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.gif">
 <h1 align="center">Hi 👋, I'm siddharth</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
