@@ -41,5 +41,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sid2631"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sid2631" /></a></p><br><br>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
