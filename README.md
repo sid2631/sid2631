@@ -1,4 +1,5 @@
-[![@sid2631's Holopin board](https://holopin.me/sid2631)](https://holopin.io/@sid2631)
+
+<img align="right" alt="Coding"  src="169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png">
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -40,7 +41,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sid2631"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sid2631" /></a></p><br><br>
-<h3 align="center">Thank You </h3>
-<img align="right" alt="Coding"  src="169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png">
-
+<h3 align="center">Holopin Badge </h3>
+[![@sid2631's Holopin board](https://holopin.me/sid2631)](https://holopin.io/@sid2631)
 
