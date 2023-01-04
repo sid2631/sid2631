@@ -40,5 +40,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sid2631"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sid2631" /></a></p><br><br>
-<h3 align="center">Holopin Badge </h3>
+<h3 align="center">Thank You</h3>
 <img align="right" alt="Coding"  src="169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png">
